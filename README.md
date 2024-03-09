@@ -1,5 +1,6 @@
 # Coming-Soon
 "Coming Soon" HTML Code  div.container contains all elements  div.content contains text &amp; "Sign Up" button  h1 for heading, p for description  button for "Sign Up"  CSS for styling
+
 ![image](https://github.com/faradost/Coming-Soon/assets/9288059/7f2d35e5-e9d4-4290-8030-f1a308a34c1c)
 
 Topic: "Coming Soon" page with HTML & CSS
